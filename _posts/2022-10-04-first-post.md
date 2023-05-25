@@ -1,4 +1,0 @@
----
-title: "Welcome to my blog"
-date: 2022-10-04
----
